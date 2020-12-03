@@ -1,6 +1,6 @@
 package geometry
 
-func squarevol(a int) int {
+func Squarevol(a int) int {
 
 	return a * a
 }
